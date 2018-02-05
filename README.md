@@ -17,7 +17,7 @@ Qt5Gui.dll
 Qt5Test.dll
 Qt5Widgets.dll
 
-Compiler libraries:
+Static libraries:
 libgcc_s_dw2-1.dll
 libstdc++-6.dll
 libwinpthread-1.dll
